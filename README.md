@@ -1,4 +1,4 @@
- [![MasterHead](https://miro.medium.com/v2/resize:fit:1134/1*Bx25gXhTonFTpa9SlGlXEg.png
+ [![MasterHead](https://miro.medium.com/v2/resize:fit:1134/1*Bx25gXhTonFTpa9SlGlXEg.png)
 <h1 align="center">Hi 👋, I'm Hamza Tonka</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 

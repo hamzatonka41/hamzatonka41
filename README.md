@@ -1,4 +1,4 @@
- [![MasterHead](https://miro.medium.com/v2/resize:fit:1134/1*Bx25gXhTonFTpa9SlGlXEg.png)
+ [![MasterHead](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/315425599/original/911dca084ba150cc7375b10b299cfb7ac62cca53/do-c-cpp-java-python-os-programming-and-projects.jpg)
 <h1 align="center">Hi 👋, I'm Hamza Tonka</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
